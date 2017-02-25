@@ -3,7 +3,7 @@ package cryptopals1.pkg1;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Cryptopals11 {
+public class Cryptopals1 {
 
     public static void main(String[] args) {
         
